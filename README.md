@@ -17,9 +17,22 @@ Link to the application form is shared in the `#qiskit-advocates` channel on Qis
 
 ## Project Deliverables
 
-- Checkpoint 1 (short project proposal presentation)
-- Checkpoint 2 (500 - 1000 written report)
-- Final showcase (demo presentation)
+1. Checkpoint 1 (short project proposal presentation)
+1. Checkpoint 2 (500 - 1000 word written report)
+1. Final showcase (demo presentation)
+
+### 1. Checkpoint 1
+Each team is required to present a short presentation after the first month of hte project.  The presentation covers the project proposal, the plan for the coming weeks, and, if available, any work that has already been completed.
+
+Individuals presenting are given 3 minutes while groups are given 6 minutes. An example of a presentation from QAMP Fall 2022 can be seen at https://youtu.be/OjQTqxpqfUE
+
+After the presentation, each team is required to upload their presentation materials to the project GitHub issue.
+
+### 2. Checkpoint 2
+Teams are required to add a written report including an image that represents the project to document their team's progress.  The report is added to the project's GitHub issue.
+
+### 3. Final showcase
+At the end of the 3 month QAMP period, teams will present their completed work at the Final Showcase.
 
 ## Commitment from mentees
 
