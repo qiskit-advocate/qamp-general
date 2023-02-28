@@ -1,11 +1,14 @@
 # Qiskit Advocate Mentorship Program (QAMP)
 This is official repository for QAMP while management and specific information of each QAMP cohort can be found 
 
+Information related to the current cohort can be found here:
+- [QAMP Spring 23](https://github.com/qiskit-advocate/qamp-spring-23)
+
 You can find information about the previous cohorts here:
+- [QAMP Fall 22](https://github.com/qiskit-advocate/qamp-fall-22)
 - [QAMP Spring 22](https://github.com/qiskit-advocate/qamp-spring-22)
 - [QAMP Fall 21](https://github.com/qiskit-advocate/qamp-fall-21)
 - [QAMP Spring 21](https://github.com/qiskit-advocate/qamp-spring-21)
-- [QAMP Fall 22](https://github.com/qiskit-advocate/qamp-fall-22)
 
 ## What is QAMP?
 
