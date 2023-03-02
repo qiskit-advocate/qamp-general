@@ -6,7 +6,7 @@ Information related to the current cohort can be found here:
 
 You can find information about the previous cohorts here:
 - [QAMP Fall 22](https://github.com/qiskit-advocate/qamp-fall-22)
-    - Links to the recordings of the QAMP Fall 22 Final Showcase can be found [here](../qamp-fall-22/Final%20Showcase.md)
+    - Links to the recordings of the QAMP Fall 22 Final Showcase can be found [here](https://github.com/qiskit-advocate/qamp-fall-22/blob/main/Final%20Showcase.md)
 - [QAMP Spring 22](https://github.com/qiskit-advocate/qamp-spring-22)
 - [QAMP Fall 21](https://github.com/qiskit-advocate/qamp-fall-21)
 - [QAMP Spring 21](https://github.com/qiskit-advocate/qamp-spring-21)
