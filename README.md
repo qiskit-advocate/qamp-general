@@ -13,11 +13,11 @@ You can find information about the previous cohorts here:
 
 ## What is QAMP?
 
-Qiskit Advocate Mentorship Program (QAMP) is a program focused on bring new contributors into Qiskit open source software development where Qiskit advocates work on a 3-month projects under the guidance of mentors.
+Qiskit Advocate Mentorship Program (QAMP) is a program focused on bringing new contributors into Qiskit open source software development where Qiskit Advocates work on a 3-month projects under the guidance of mentors.
 
 ## Application
 
-Link to the application form is shared in the `#qiskit-advocates` channel on Qiskit Slack workspace (only accessible to Qiskit advocates)
+Link to the application form is shared in the `#qiskit-advocates` channel on Qiskit Slack workspace (only accessible to Qiskit Advocates)
 
 ## Project Deliverables
 
@@ -58,7 +58,7 @@ During mentoring period (> 5 hours per week)
 ## Frequently Asked Questions
 
 ### Q: Who is eligible to apply?
-A: QAMP is an exclusive offering for Qiskit advocates. You need to become a Qiskit advocates to apply for the program. Read [here](https://github.com/qiskit-advocate/application-guide) for more information about how to become a Qiskit advocate.
+A: QAMP is an exclusive offering for Qiskit Advocates. You need to become a Qiskit Advocates to apply for the program. Read [here](https://github.com/qiskit-advocate/application-guide) for more information about how to become a Qiskit advocate.
 
 ### Q: Can mentees propose projects?
 A: Yes! Mentees can propose project ideas by submitting them as a github issue [here](https://github.com/qiskit-advocate/qamp-fall-22/issues) during the application period. If a mentor is interested in your project, you will be matched to work on the project.
