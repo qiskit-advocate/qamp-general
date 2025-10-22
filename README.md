@@ -26,7 +26,7 @@ Link to the application form is shared in the `#qiskit-advocates` channel on Qis
 1. Final showcase (demo presentation)
 
 ### 1. Checkpoint 1
-Each team is required to present a short presentation after the first month of hte project.  The presentation covers the project proposal, the plan for the coming weeks, and, if available, any work that has already been completed.
+Each team is required to present a short presentation after the first month of the project.  The presentation covers the project proposal, the plan for the coming weeks, and, if available, any work that has already been completed.
 
 Individuals presenting are given 3 minutes while groups are given 6 minutes. An example of a presentation from QAMP Fall 2022 can be seen at https://youtu.be/OjQTqxpqfUE
 
